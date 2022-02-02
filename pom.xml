@@ -11,7 +11,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<hibernate.version>5.4.2.Final</hibernate.version>
-		<postgres.version>42.2.5</postgres.version>
+		<postgres.version>42.2.25</postgres.version>
 	</properties>
 
 	<build>
